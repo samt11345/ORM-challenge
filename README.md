@@ -11,12 +11,6 @@ This is a basic Express.js application template that uses Sequelize as the datab
 
 Certainly! Here's a simpler README.md for your Express.js application:
 
-markdown
-Copy code
-# Express.js App with Sequelize
-
-This is a basic Express.js application template that uses Sequelize as the database ORM.
-
 ## Getting Started
 
 1. Clone this repository:
